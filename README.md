@@ -7,4 +7,4 @@ The chkobba (Arabic: شكبّة or škubba), also spelled chkobba or chkobba, is
 ![Screenshot](./Screen/img.PNG)
 
 # About 
-A Java game using the swing framework 
+A Java game using the swing framework in which two pc must connect by a local network with an ip address
